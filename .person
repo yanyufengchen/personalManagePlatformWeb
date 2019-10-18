@@ -1,0 +1,2 @@
+VUE_APP_BASE_API=/person/api/v1
+VUE_APP_VERSION=v1
